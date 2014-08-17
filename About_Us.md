@@ -1,0 +1,10 @@
+Plebs on Security is intended to be a resource of small, simple things you can do that help you to secure your privacy and digital life. Quite simply, "Security for the rest of us." There are _a lot_ of security and privacy resources on the web, but they tend to be extremely detailed and technical or too broad, simple, and often times wrong. We hope to help sort through and simplify this content. Here you'll find simple tutorials as well as deeper examinations of how and why. The idea is to make it simple to regain and maintain some of the privacy and security that has been lost.
+
+Furthermore, a lot of these sites that claim to be teaching you how to regain your privacy use hypocritical tracking systems that compound the problem. Plebs doesn't utilize any third party tools that may be used to track you (Google analytics, CDN hosted scripts, social media tags with tracking, etc). We run entirely self hosted, open source tools that you can [opt out of](/privacy-policy).
+
+In the spirit of open source content, the material on this site, unless otherwise noted, is released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). Furthermore, ALL of our content is available on our [Github repo](https://github.com/PlebsOnSecurity/Plebs-on-Security-Articles/tree/master) for you to fork, edit, update, comment, and expand upon. We strongly believe that community, crowd sourced journalism via git and other versioning systems is the future and this is our small contribution.
+
+The site's name is admittedly a bad pun based off the excellent [Krebs on Security](http://krebsonsecurity.com). Unlike Brian Krebs or [Bruce Schneier](https://www.schneier.com/) (crypto wizard and founder of Schneier on Security - are you seeing the pattern) I am not a security expert. I work in [Film/TV](http://davidtorcivia.com) though I make every effort to be accurate and source where appropriate. 
+
+Please [contact us](/contact) or leave a comment if you have questions, concerns, or see errors and omissions.
+
