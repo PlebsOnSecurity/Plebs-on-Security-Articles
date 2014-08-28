@@ -1,3 +1,0 @@
-#Encrypt Your Voice Calls
-
-It's no secret that the US surveillance apparatus has and utilizes the ability to record our phone calls. In fact, telecos have been legally required to build in wiretapping capabilities since the passing of the 1994 Communications Assistance for Law Enforcement Act. Leaks of NSA programs like [MYSTIC](https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/) have revealed the potential scope the organization has and in fact, former NSA whistle-blower William Binney claims that we illegally store [80% of all audio calls](http://www.theguardian.com/commentisfree/2014/jul/11/the-ultimate-goal-of-the-nsa-is-total-population-control).
